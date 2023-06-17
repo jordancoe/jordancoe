@@ -22,3 +22,5 @@
 - 🔥 Firebase
 - 💬 MessageUI
 - 💵 StoreKit
+- 🥽 Vision
+- 🧠 CoreML
