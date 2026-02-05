@@ -2,7 +2,7 @@
 
 **`Self-Taught iOS Developer`**
 
-### 💼 **[My GitHub Portfolio](https://github.com/jordancoe/iOS-Developer-Portfolio)**
+### 💼 **[My Apps](https://github.com/jordancoe/iOS-Developer-Portfolio)**
 
 ### About
 - 💻 I started learning iOS Development in 2019
